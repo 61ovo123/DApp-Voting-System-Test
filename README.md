@@ -80,17 +80,17 @@
 <img width="403" height="215" alt="image" src="https://github.com/user-attachments/assets/5441c5c6-d8fe-4c23-beea-5a8764bbd5e2" />
 
 
-### MetaMask连接
-
-（放截图）
-
 ### 投票过程
 
-（放截图）
+<img width="484" height="273" alt="image" src="https://github.com/user-attachments/assets/08258f20-5dd7-45fc-b509-a83f40f46ee5" />
+
+<img width="428" height="299" alt="image" src="https://github.com/user-attachments/assets/3d1a85fd-be13-4565-a922-a53ef7a8c9b1" />
 
 ### 投票结果
 
-（放截图）
+<img width="483" height="147" alt="image" src="https://github.com/user-attachments/assets/005b60b1-2db5-43b3-bf6c-f41b71b89279" />
+<img width="484" height="273" alt="image" src="https://github.com/user-attachments/assets/6b3a62a0-46bc-462a-8847-1ecae01dd3ba" />
+
 
 ---
 
